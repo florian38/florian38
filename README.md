@@ -13,7 +13,6 @@ Hi, I'm Florian, a passionate and curious developer, always on the lookout for n
 Thanks for visiting my profile, and I look forward to exploring endless possibilities together!
 
 ### My skills :
-</br>
 
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C)&nbsp; ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;  ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=PHP)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp; </br>
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html5)&nbsp;
